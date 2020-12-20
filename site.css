@@ -1,0 +1,11 @@
+/*Importing Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+/*Styling*/
+html {
+  background-color: dodgerblue;
+}
+h1 {
+  color: crimson;
+  font-family: Langar;
+  font-size: 50px;
+}
