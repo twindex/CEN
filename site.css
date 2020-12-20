@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
 /*Styling*/
 body {
- background-color: white;
+ background-color: aliceblue;
 }
 h1 {
  color: crimson;
@@ -13,4 +13,7 @@ h1 {
 h3 {
  color: dodgerblue;
  font-family: 'JetBrains Mono', sans;
+}
+div#access-bar.access-bar {
+  background-color: chartreuse;
 }
