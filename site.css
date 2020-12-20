@@ -1,14 +1,16 @@
 /*Importing Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
 /*Styling*/
 html {
-  background-color: dodgerblue;
+ background-color: white;
 }
 h1 {
-  color: crimson;
-  font-family: Langar;
-  font-size: 50px;
+ color: crimson;
+ font-family: 'Langar', sans;
+ font-size: 50px;
 }
 h3 {
-  color: dodgerblue;
+ color: dodgerblue;
+ font-family: 'JetBrains Mono', sans;
 }
