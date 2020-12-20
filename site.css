@@ -2,17 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300&display=swap');
 /*Styling*/
-body {
- background-color: aliceblue;
+html {
+  background-color: white;
 }
 h1 {
- color: crimson;
- font-family: 'Langar', sans;
- font-size: 50px;
+  color: crimson;
+  font-family: 'Langar', sans;
+  font-size: 50px;
 }
 h3 {
- color: dodgerblue;
- font-family: 'JetBrains Mono', sans;
+  color: dodgerblue;
+  font-family: 'JetBrains Mono', sans;
 }
 div#access-bar.access-bar {
   background-color: chartreuse;
