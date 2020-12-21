@@ -15,7 +15,8 @@ h3 {
   font-family: 'JetBrains Mono', sans;
 }
 div#access-bar.access-bar {
-  background-color: chartreuse;
+  background-color: #0b72ef;
+  border-color: #0b72ef;
 }
 table#nav.nav, tr, td {
   border: 5px solid royalblue;
