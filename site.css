@@ -17,8 +17,6 @@ h3 {
 div#access-bar.access-bar {
   background-color: chartreuse;
 }
-button#nav.nav {
-  background-color: chartreuse;
-  color: goldenrod;
-  border-color: #05fc6c;
+table#nav.nav, tr, td {
+  border: 2px solid royalblue;
 }
