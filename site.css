@@ -7,12 +7,12 @@ body {
 }
 h1 {
   color: crimson;
-  font-family: 'Langar', sans;
+  font-family: 'Langar', sans-serif;
   font-size: 50px;
 }
 h3 {
   color: dodgerblue;
-  font-family: 'JetBrains Mono', sans;
+  font-family: 'JetBrains Mono', monospace;
 }
 div#access-bar.access-bar {
   background-color: #0b72ef;
@@ -21,4 +21,8 @@ div#access-bar.access-bar {
 table#nav.nav, tr, td {
   border: 5px solid royalblue;
   border-collapse: collapse;
+}
+a {
+  color: green;
+  font-family: 'JetBrains Mono', monospace;
 }
