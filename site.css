@@ -23,6 +23,6 @@ table#nav.nav, tr, td {
   border-collapse: collapse;
 }
 a {
-  color: green;
+  color: lime;
   font-family: 'JetBrains Mono', monospace;
 }
