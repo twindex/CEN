@@ -18,5 +18,6 @@ div#access-bar.access-bar {
   background-color: chartreuse;
 }
 table#nav.nav, tr, td {
-  border: 2px solid royalblue;
+  border: 5px solid royalblue;
+  border-collapse: collapse;
 }
