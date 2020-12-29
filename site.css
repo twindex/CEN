@@ -20,13 +20,13 @@ div#access-bar.access-bar {
   border-color: #0b72ef;
 }
 table#nav.nav, tr, td {
-  border: 5px solid dodgerblue;
+  border: 5px solid #0b72ef;
   border-collapse: collapse;
 }
 a {
   color: lime;
   font-family: 'JetBrains Mono', monospace;
-  text-decoratoin: none;
+  text-decoration: none;
 }
 p {
   color: darkturquoise;
