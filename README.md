@@ -1,2 +1,2 @@
 # Navigate Caret on Chrome!
-How to navigate Caret, a code editor, on the Chrome browser.
+How to navigate multiple code editors on the Chrome browser.
