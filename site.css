@@ -19,6 +19,7 @@ div#access-bar.access-bar {
   background-color: #0b72ef;
   border-color: #0b72ef;
   width: 100%;
+  border: solid 10px #0b72ef;
 }
 table#nav.nav, tr, td {
   border: 5px solid #0b72ef;
